@@ -8,6 +8,6 @@ It takes inputs values from the Siemens PLC using the [Snap7 library](http://sna
 
 Sometimes the connection to the PLC can be lost for what ever reason. Their is therefore a mecanism in the app to pick up a connection error and display it as well as trying to automatically reconnect to the PLC.
 
-Their are three tabs, one for moving curtains, one for turning lights on and off and one for displaying water consumption and alarms relative to the plumbing. In this tab there is also a button to turn off the main water valve in case of a leak and a button swap displayed language. Yes! It is also a internationalized application!
+Their are three tabs, one for moving curtains, one for turning lights on and off and one for displaying water consumption and alarms relative to the plumbing. In this tab there is also a button to turn off the main water valve in case of a leak and a button swap displayed language. Yes! It is also a internationalized application! Oh and one more thing, an alarm log is stored in a Qsqlite database
 
-Oh and one more thing, an alarm log is stored in a sqlite
+
