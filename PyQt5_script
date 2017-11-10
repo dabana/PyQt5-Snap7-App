@@ -1,0 +1,4 @@
+#!/bin/bash
+#This script generates the mainwindow and ressources python files from the Qtcreator files
+pyuic5 mainwindow2prod.ui > mainwindow_auto.py
+pyrcc5 -o ressources_rc.py ressources.qrc

@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/idea (1).png</file>
+        <file>images/idea.png</file>
+        <file>images/left-arrow-button (1).png</file>
+        <file>images/left-arrow-button.png</file>
+        <file>images/right-arrow-button (1).png</file>
+        <file>images/right-arrow-button.png</file>
+        <file>images/wrench.png</file>
+        <file>images/two-way-arrows.png</file>
+        <file>images/idea (2).png</file>
+        <file>images/warning_grey.png</file>
+        <file>images/warning_white.png</file>
+        <file>images/warning_yellow.png</file>
+        <file>images/warning_black.png</file>
+        <file>images/block-faucet.png</file>
+        <file>images/block-faucet-red.png</file>
+        <file>images/speech-bubble.png</file>
+        <file>images/speech-bubble-fr.png</file>
+        <file>images/speech-bubble-en.png</file>
+        <file>images/video.png</file>
+        <file>images/video_gr.png</file>
+    </qresource>
+</RCC>
