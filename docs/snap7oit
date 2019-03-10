@@ -1,0 +1,15 @@
+Snap7 is an open source library written in C to communiacted with Siemens PLC via the S7 protocol
+
+Make sure you have all the build tools to compile the Snap7 C library
+```
+sudo apt-get install build-essential
+```
+
+Go to /build/unix and execute
+```
+sudo make –f arm_v7_linux.mk install
+```
+
+Install the python-snap7 wrapper
+```
+sudo
